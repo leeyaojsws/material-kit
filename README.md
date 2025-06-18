@@ -5,11 +5,11 @@
 ![Image](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/material-kit/material-kit.jpg)
 
 
-**Material Kit** 是一款免费的 Bootstrap 5 UI 工具包，设计灵感源自 Google 的 Material Design。應眾多用戶需求而生，我們很高興以這套易用而精美的組件向你介紹 Material 的理念。除了重新設計的 Bootstrap 元素外，還提供三個完整的示例頁面，助你開啟下一個項目。
+**Material Kit** is a **Free Bootstrap 5 UI Kit** with a fresh, new design inspired by Google's material design. You asked for it, so we built it. It's a great pleasure to introduce to you the material concepts in an easy to use and beautiful set of components. Along with the restyling of the Bootstrap elements, you will find three fully-coded example pages, to help you design your next project.
 
-**Material Kit** 運用光影、表面與動效的概念，搭配精心挑選的色彩、全幅圖像及大尺寸字體。整體佈局如同多層紙張疊放，層次與順序一目了然。導航主要位於左側，操作區在右側。
+**Material Kit** makes use of light, surface, and movement. It uses a deliberate color choice, edge-to-edge imagery, and large scale typography. The general layout resembles sheets of paper following multiple different layers so that the depth and order are obvious. The navigation stays mainly on the left and the actions on the right.
 
-这一全新设计結合了對墨跡與紙張以及實際材質交互方式的研究成果，呈現出美觀且一致的元素集合，可助你快速開啟新項目。若你想為 Android 應用打造一致的網頁體驗，Material Kit 將是理想選擇，同時它本身也十分賞心悅目，能幫助你快速構建頁面。
+This new design has elements that have been the result of research regarding ink and paper and the way objects and materials interact in real life. The result is a beautiful and consistent set of elements that can get you started with your next project. Material Kit is a great tool if you are looking to create a web presence for your Android application and need to be consistent, leaving the impression of visually similar elements. It is also a great resource in its own right, looking gorgeous and helping you build your web pages.
 
 Special thanks go to:
 - [Nepcha Analytics](https://nepcha.com?ref=readme) for the analytics tool. Nepcha is already integrated with Material Dashboard. You can use it to gain insights into your sources of traffic.
